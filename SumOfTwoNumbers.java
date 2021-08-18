@@ -14,6 +14,6 @@ public class SumOfTwoNumbers {
       System.out.println("Enter your second number");
       float num4 =sc.nextFloat();
       System.out.println("Your answer is: "+(num3+num4));
-
+    sc.close();
   }  
 }
