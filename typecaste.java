@@ -10,7 +10,7 @@ public class typecaste {
         float num1 = (float)(85.695578451216589d);
         // double chnaged into float
         System.out.println(num1);
-
+        
     }
     
 }
