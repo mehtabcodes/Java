@@ -16,6 +16,11 @@ public class input {
         int id=sc.nextInt();
 
         System.out.println(id+ " " + name + " " + numb + " " + sal );
+        sc.close();
+    }
+
+    public static String next() {
+        return null;
     }
     
 }
